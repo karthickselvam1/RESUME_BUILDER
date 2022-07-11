@@ -1,0 +1,56 @@
+
+.name-style{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid rgba(12, 15, 15, 0.937);
+  font-size: 17px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: rgb(22, 95, 212);
+  padding: 20px;
+}
+.labelled label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.labelled input {
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 20rem;
+  max-width: 100%;
+}
+
+
+.col-25 {
+  float: left;
+  width: 15%;
+  margin-top: 6px;
+  
+}
+
+.col-75 {
+  font:300;
+  font-weight: bold;
+ font-size-adjust: 0.58;
+}
+
+.button {
+  align-items: center;
+  background-color: rgba(255, 0, 157, 0.605);
+  border: none;
+  color: white;
+  padding: 14px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px; 
+}
+.img{
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/785239/background.jpg");
+}
